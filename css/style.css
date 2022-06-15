@@ -1,0 +1,39 @@
+body {
+    background-color:black;
+    font-family: arial;
+    font-size: 15px;
+    color: white;
+}
+
+h1 {
+    color:gray;
+    font-family: verdana;
+    font-size: 20px;
+}
+
+.maindiv {
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+}
+
+/* This is to highlight the numeric amounts in the result. */
+#nums {
+    background-color: yellow;
+}
+
+#principal {
+    padding: 5px;
+    margin-left: 13%;
+}
+
+#rate, #years {
+    padding: 5px;
+    margin: 5px;
+}
+
+button {
+    padding: 8px;
+}
